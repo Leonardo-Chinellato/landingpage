@@ -476,7 +476,7 @@ QUERIES
 
     .gallery-img img {
         width: 100%;
-        height: auto;
+        height: 20rem;
     }
 
     ;.grid-one-content {
