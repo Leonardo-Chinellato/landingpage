@@ -482,11 +482,6 @@ QUERIES
     ;.grid-one-content {
         display: block;
     }
-    
-    .intro-img {
-    max-width: auto;
-    height: auto;
-    }
 
 
 
@@ -509,6 +504,10 @@ QUERIES
 
     .menu {
         display: none;
+    }
+    
+    .intro {
+        height: auto;
     }
 
     .close-menu-label::after {
