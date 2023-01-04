@@ -488,7 +488,7 @@ QUERIES
     } */
     
     .intro-content {
-        min-height: auto;
+        min-height: none;
 }
 
 
