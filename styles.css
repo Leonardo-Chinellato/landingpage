@@ -479,9 +479,13 @@ QUERIES
         width: 100%;
     }
 
-    ;.grid-one-content {
+    .grid-one-content {
         display: block;
     }
+    
+    /* .intro {
+        height: auto;
+    } */
 
 
 
@@ -506,9 +510,6 @@ QUERIES
         display: none;
     }
     
-    .intro {
-        height: auto;
-    }
 
     .close-menu-label::after {
         content: '≡';
