@@ -486,6 +486,10 @@ QUERIES
     /* .intro {
         height: auto;
     } */
+    
+    .intro-content {
+        min-height: auto;
+}
 
 
 
